@@ -4,44 +4,63 @@ repo: send-instances-status
 sites:
   - name: send.vis.ee
     url: https://send.vis.ee
+    method: HEAD
     assignees:
       - timvisee
   - name: send.zcyph.cc
     url: https://send.zcyph.cc
+    method: HEAD
   - name: send.ephemeral.land
     url: https://send.ephemeral.land
+    method: HEAD
   - name: send.mni.li
     url: https://send.mni.li
+    method: HEAD
   - name: send.monks.tools
     url: https://send.monks.tools
+    method: HEAD
   - name: send.boblorange.net
     url: https://send.boblorange.net
+    method: HEAD
   - name: send.aurorabilisim.com
     url: https://send.aurorabilisim.com
+    method: HEAD
   - name: send.artemislena.eu
     url: https://send.artemislena.eu
+    method: HEAD
   - name: send.datahoarder.dev
     url: https://send.datahoarder.dev
+    method: HEAD
   - name: fileupload.ggc-project.de
     url: https://fileupload.ggc-project.de
+    method: HEAD
   - name: drop.chapril.org
     url: https://drop.chapril.org
+    method: HEAD
   - name: send.jeugdhulp.be
     url: https://send.jeugdhulp.be
+    method: HEAD
   - name: files.psu.ru
     url: https://files.psu.ru
+    method: HEAD
   - name: send.portailpro.net
     url: https://send.portailpro.net
+    method: HEAD
   - name: transfer.acted.org
     url: https://transfer.acted.org
+    method: HEAD
   - name: send.datenpost.app
     url: https://send.datenpost.app
+    method: HEAD
   - name: send.angelic.icu
     url: https://send.angelic.icu
+    method: HEAD
   - name: s.opnxng.com
     url: https://s.opnxng.com
+    method: HEAD
   - name: send.whateveritworks.org
     url: https://send.whateveritworks.org
+    method: HEAD
 
 status-website:
   # cname: status.vis.ee
@@ -49,10 +68,10 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/timvisee/send/master/assets/icon.svg
   name: Public Send instances
   introTitle: Public Send service instances
-  introMessage: Monitor the status and uptime of the public [Send](https://github.com/timvisee/send) service instances. For more details about each instance and how to use them, please see our [Public Send instances](https://github.com/timvisee/send-instances) repository.
+  introMessage: Monitor the status and uptime of the public [Send](https://github.com/timvisee/send) service instances. For more details about each instance, how to use them and how to host your own instance, please see our [Public Send instances](https://github.com/timvisee/send-instances) repository.
   navbar:
     - title: Status
-      href: /
+      href: /$REPO
     - title: Send
       href: https://github.com/timvisee/send
     - title: Send instances
