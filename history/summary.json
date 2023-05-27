@@ -310,18 +310,20 @@
     "url": "https://s.opnxng.com",
     "icon": "https://icons.duckduckgo.com/ip3/s.opnxng.com.ico",
     "slug": "s-opnxng-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 821,
     "timeDay": 821,
     "timeWeek": 821,
     "timeMonth": 821,
     "timeYear": 821,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-27": 0
+    }
   },
   {
     "name": "send.whateveritworks.org",
@@ -329,18 +331,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.whateveritworks.org.ico",
     "slug": "send-whateveritworks-org",
     "status": "down",
-    "uptime": "50.44%",
-    "uptimeDay": "50.44%",
-    "uptimeWeek": "50.44%",
-    "uptimeMonth": "50.44%",
-    "uptimeYear": "50.44%",
+    "uptime": "37.38%",
+    "uptimeDay": "37.38%",
+    "uptimeWeek": "37.38%",
+    "uptimeMonth": "37.38%",
+    "uptimeYear": "37.38%",
     "time": 320,
     "timeDay": 320,
     "timeWeek": 320,
     "timeMonth": 320,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2023-05-27": 0,
+      "2023-05-27": 347,
       "2023-05-26": 491
     }
   }
