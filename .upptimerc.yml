@@ -42,6 +42,8 @@ sites:
     url: https://s.opnxng.com
   - name: send.whateveritworks.org
     url: https://send.whateveritworks.org
+  - name: send.cyberjake.xyz
+    url: https://send.cyberjake.xyz
 
 status-website:
   # cname: status.vis.ee
