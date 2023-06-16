@@ -294,7 +294,7 @@
     "slug": "send-datenpost-app",
     "status": "down",
     "uptime": "96.13%",
-    "uptimeDay": "20.30%",
+    "uptimeDay": "20.24%",
     "uptimeWeek": "88.61%",
     "uptimeMonth": "96.13%",
     "uptimeYear": "96.13%",
@@ -304,7 +304,7 @@
     "timeMonth": 476,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2023-06-16": 68,
+      "2023-06-16": 69,
       "2023-06-15": 1079
     }
   },
@@ -339,8 +339,8 @@
     "slug": "s-opnxng-com",
     "status": "down",
     "uptime": "98.62%",
-    "uptimeDay": "86.63%",
-    "uptimeWeek": "98.09%",
+    "uptimeDay": "86.57%",
+    "uptimeWeek": "98.08%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "98.62%",
     "time": 859,
@@ -349,7 +349,7 @@
     "timeMonth": 859,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2023-06-16": 0,
+      "2023-06-16": 1,
       "2023-06-15": 192,
       "2023-05-27": 216
     }
@@ -371,7 +371,7 @@
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2023-06-16": 68,
+      "2023-06-16": 69,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
