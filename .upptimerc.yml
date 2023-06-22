@@ -44,6 +44,8 @@ sites:
     url: https://send.whateveritworks.org
   - name: send.cyberjake.xyz
     url: https://send.cyberjake.xyz
+  - name: send.kokomo.cloud
+    url: https://send.kokomo.cloud
 
 status-website:
   # cname: status.vis.ee
