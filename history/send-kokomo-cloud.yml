@@ -1,7 +1,7 @@
 url: https://send.kokomo.cloud
-status: up
-code: 200
-responseTime: 156
-lastUpdated: 2023-07-13T23:32:21.511Z
+status: down
+code: 502
+responseTime: 173
+lastUpdated: 2023-07-14T13:56:11.731Z
 startTime: Thu Jun 22 2023 14:13:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
