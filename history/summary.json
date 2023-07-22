@@ -13,7 +13,7 @@
     "time": 977,
     "timeDay": 659,
     "timeWeek": 508,
-    "timeMonth": 881,
+    "timeMonth": 892,
     "timeYear": 977,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 526,
     "timeDay": 499,
     "timeWeek": 463,
-    "timeMonth": 504,
+    "timeMonth": 500,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2023-05-31": 16
@@ -51,7 +51,7 @@
     "time": 2386,
     "timeDay": 792,
     "timeWeek": 857,
-    "timeMonth": 1769,
+    "timeMonth": 1753,
     "timeYear": 2386,
     "dailyMinutesDown": {
       "2023-06-12": 108
@@ -62,18 +62,20 @@
     "url": "https://send.mni.li",
     "icon": "https://icons.duckduckgo.com/ip3/send.mni.li.ico",
     "slug": "send-mni-li",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 553,
     "timeDay": 420,
     "timeWeek": 460,
-    "timeMonth": 560,
+    "timeMonth": 563,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-22": 1
+    }
   },
   {
     "name": "send.monks.tools",
@@ -89,7 +91,7 @@
     "time": 3933,
     "timeDay": 4773,
     "timeWeek": 6932,
-    "timeMonth": 4986,
+    "timeMonth": 5017,
     "timeYear": 3933,
     "dailyMinutesDown": {
       "2023-07-17": 28
@@ -127,7 +129,7 @@
     "time": 510,
     "timeDay": 445,
     "timeWeek": 474,
-    "timeMonth": 507,
+    "timeMonth": 505,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2023-07-22": 170,
@@ -150,7 +152,7 @@
     "time": 737,
     "timeDay": 538,
     "timeWeek": 630,
-    "timeMonth": 763,
+    "timeMonth": 748,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2023-07-13": 82,
@@ -162,18 +164,20 @@
     "url": "https://send.datahoarder.dev",
     "icon": "https://icons.duckduckgo.com/ip3/send.datahoarder.dev.ico",
     "slug": "send-datahoarder-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
     "timeDay": 437,
     "timeWeek": 579,
-    "timeMonth": 686,
+    "timeMonth": 682,
     "timeYear": 631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-22": 0
+    }
   },
   {
     "name": "fileupload.ggc-project.de",
@@ -189,7 +193,7 @@
     "time": 909,
     "timeDay": 440,
     "timeWeek": 439,
-    "timeMonth": 632,
+    "timeMonth": 611,
     "timeYear": 909,
     "dailyMinutesDown": {}
   },
@@ -207,7 +211,7 @@
     "time": 1099,
     "timeDay": 739,
     "timeWeek": 686,
-    "timeMonth": 1342,
+    "timeMonth": 1352,
     "timeYear": 1099,
     "dailyMinutesDown": {
       "2023-05-28": 33
@@ -227,7 +231,7 @@
     "time": 894,
     "timeDay": 739,
     "timeWeek": 879,
-    "timeMonth": 889,
+    "timeMonth": 890,
     "timeYear": 894,
     "dailyMinutesDown": {}
   },
@@ -237,11 +241,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.psu.ru.ico",
     "slug": "files-psu-ru",
     "status": "up",
-    "uptime": "48.99%",
+    "uptime": "49.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "45.14%",
-    "uptimeMonth": "11.77%",
-    "uptimeYear": "48.99%",
+    "uptimeWeek": "47.96%",
+    "uptimeMonth": "12.42%",
+    "uptimeYear": "49.17%",
     "time": 1017,
     "timeDay": 739,
     "timeWeek": 847,
@@ -296,7 +300,7 @@
     "time": 608,
     "timeDay": 457,
     "timeWeek": 546,
-    "timeMonth": 590,
+    "timeMonth": 588,
     "timeYear": 608,
     "dailyMinutesDown": {}
   },
@@ -314,7 +318,7 @@
     "time": 556,
     "timeDay": 522,
     "timeWeek": 535,
-    "timeMonth": 557,
+    "timeMonth": 556,
     "timeYear": 556,
     "dailyMinutesDown": {}
   },
@@ -324,11 +328,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.datenpost.app.ico",
     "slug": "send-datenpost-app",
     "status": "up",
-    "uptime": "54.92%",
+    "uptime": "55.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "39.28%",
-    "uptimeYear": "54.92%",
+    "uptimeMonth": "39.93%",
+    "uptimeYear": "55.07%",
     "time": 507,
     "timeDay": 342,
     "timeWeek": 521,
@@ -369,15 +373,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.angelic.icu.ico",
     "slug": "send-angelic-icu",
     "status": "up",
-    "uptime": "83.12%",
+    "uptime": "83.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "80.40%",
-    "uptimeYear": "83.12%",
+    "uptimeYear": "83.18%",
     "time": 1156,
     "timeDay": 1017,
     "timeWeek": 1020,
-    "timeMonth": 1059,
+    "timeMonth": 921,
     "timeYear": 1156,
     "dailyMinutesDown": {
       "2023-07-03": 1231,
@@ -400,15 +404,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.opnxng.com.ico",
     "slug": "s-opnxng-com",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 807,
     "timeDay": 894,
     "timeWeek": 830,
-    "timeMonth": 780,
+    "timeMonth": 782,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2023-07-20": 22,
@@ -431,7 +435,7 @@
     "time": 340,
     "timeDay": 506,
     "timeWeek": 445,
-    "timeMonth": 489,
+    "timeMonth": 496,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2023-07-16": 175,
@@ -452,7 +456,7 @@
     "time": 355,
     "timeDay": 140,
     "timeWeek": 181,
-    "timeMonth": 440,
+    "timeMonth": 445,
     "timeYear": 355,
     "dailyMinutesDown": {}
   },
@@ -470,7 +474,7 @@
     "time": 144,
     "timeDay": 77,
     "timeWeek": 98,
-    "timeMonth": 144,
+    "timeMonth": 142,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2023-07-14": 40,
