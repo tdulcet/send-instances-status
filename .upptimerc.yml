@@ -46,6 +46,8 @@ sites:
     url: https://send.cyberjake.xyz
   - name: send.kokomo.cloud
     url: https://send.kokomo.cloud
+  - name: send.adminforge.de
+    url: https://send.adminforge.de
 
 status-website:
   # cname: status.vis.ee
