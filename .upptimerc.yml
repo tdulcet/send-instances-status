@@ -48,6 +48,8 @@ sites:
     url: https://send.kokomo.cloud
   - name: send.adminforge.de
     url: https://send.adminforge.de
+  - name: send.turingpoint.de
+    url: https://send.turingpoint.de
 
 status-website:
   # cname: status.vis.ee
