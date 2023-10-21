@@ -1,7 +1,7 @@
 url: https://send.datenpost.app
-status: up
-code: 200
-responseTime: 335
-lastUpdated: 2023-10-21T20:34:04.167Z
+status: down
+code: 503
+responseTime: 598
+lastUpdated: 2023-10-21T21:18:59.482Z
 startTime: 2023-05-26T10:57:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
