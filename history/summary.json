@@ -213,19 +213,19 @@
     "url": "https://fileupload.ggc-project.de",
     "icon": "https://icons.duckduckgo.com/ip3/fileupload.ggc-project.de.ico",
     "slug": "fileupload-ggc-project-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 422,
-    "timeWeek": 639,
-    "timeMonth": 633,
-    "timeYear": 692,
+    "time": 691,
+    "timeDay": 410,
+    "timeWeek": 609,
+    "timeMonth": 626,
+    "timeYear": 691,
     "dailyMinutesDown": {
-      "2023-10-23": 1
+      "2023-10-23": 8
     }
   },
   {
@@ -366,7 +366,7 @@
     "status": "up",
     "uptime": "73.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "29.01%",
+    "uptimeWeek": "29.08%",
     "uptimeMonth": "73.91%",
     "uptimeYear": "73.18%",
     "time": 598,
@@ -437,7 +437,7 @@
     "timeMonth": 0,
     "timeYear": 1106,
     "dailyMinutesDown": {
-      "2023-10-23": 1278,
+      "2023-10-23": 1286,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
