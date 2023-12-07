@@ -36,8 +36,6 @@ sites:
     url: https://transfer.acted.org
   - name: send.datenpost.app
     url: https://send.datenpost.app
-  - name: send.angelic.icu
-    url: https://send.angelic.icu
   - name: s.opnxng.com
     url: https://s.opnxng.com
   - name: send.whateveritworks.org
