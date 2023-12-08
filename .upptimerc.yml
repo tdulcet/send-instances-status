@@ -48,6 +48,8 @@ sites:
     url: https://send.adminforge.de
   - name: send.turingpoint.de
     url: https://send.turingpoint.de
+  - name: send.nsh.social
+    url: https://send.nsh.social
 
 status-website:
   # cname: status.vis.ee
