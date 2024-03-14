@@ -30,8 +30,6 @@ sites:
     url: https://send.jeugdhulp.be
   - name: files.psu.ru
     url: https://files.psu.ru
-  - name: send.portailpro.net
-    url: https://send.portailpro.net
   - name: transfer.acted.org
     url: https://transfer.acted.org
   - name: send.datenpost.app
