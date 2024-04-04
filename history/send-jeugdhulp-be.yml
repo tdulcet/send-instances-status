@@ -1,7 +1,7 @@
 url: https://send.jeugdhulp.be
-status: up
-code: 200
-responseTime: 727
-lastUpdated: 2024-04-03T23:05:55.648Z
+status: down
+code: 502
+responseTime: 5330
+lastUpdated: 2024-04-04T13:50:06.442Z
 startTime: 2023-05-26T10:57:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
