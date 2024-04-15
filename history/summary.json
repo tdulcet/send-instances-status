@@ -164,7 +164,7 @@
     "timeMonth": 494,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2024-04-15": 921,
+      "2024-04-15": 929,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -225,7 +225,7 @@
     "timeMonth": 81,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-04-15": 921,
+      "2024-04-15": 929,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -435,7 +435,7 @@
     "timeMonth": 0,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2024-04-15": 921,
+      "2024-04-15": 929,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -725,8 +725,8 @@
     "status": "down",
     "uptime": "78.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "35.17%",
-    "uptimeMonth": "85.08%",
+    "uptimeWeek": "35.09%",
+    "uptimeMonth": "85.06%",
     "uptimeYear": "78.46%",
     "time": 807,
     "timeDay": 0,
@@ -734,7 +734,7 @@
     "timeMonth": 1116,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2024-04-15": 921,
+      "2024-04-15": 929,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -860,7 +860,7 @@
     "timeMonth": 0,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-04-15": 921,
+      "2024-04-15": 929,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
@@ -1097,19 +1097,19 @@
     "url": "https://send.codespace.cz",
     "icon": "https://icons.duckduckgo.com/ip3/send.codespace.cz.ico",
     "slug": "send-codespace-cz",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 785,
-    "timeDay": 805,
-    "timeWeek": 785,
-    "timeMonth": 785,
-    "timeYear": 785,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
+    "time": 778,
+    "timeDay": 790,
+    "timeWeek": 778,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {
-      "2024-04-15": 1
+      "2024-04-15": 8
     }
   }
 ]
