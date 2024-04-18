@@ -52,6 +52,8 @@ sites:
     url: https://send.aslaets.be
   - name: send.codespace.cz
     url: https://send.codespace.cz
+  - name: upload.nolog.cz
+    url: https://upload.nolog.cz
 
 status-website:
   # cname: status.vis.ee
