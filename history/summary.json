@@ -166,7 +166,7 @@
     "timeMonth": 488,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2024-04-29": 521,
+      "2024-04-29": 528,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -241,7 +241,7 @@
     "timeMonth": 90,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2024-04-29": 521,
+      "2024-04-29": 528,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2024-04-29": 521,
+      "2024-04-29": 528,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -776,7 +776,7 @@
     "uptime": "75.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.97%",
+    "uptimeMonth": "39.95%",
     "uptimeYear": "75.29%",
     "time": 807,
     "timeDay": 0,
@@ -784,7 +784,7 @@
     "timeMonth": 1079,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2024-04-29": 521,
+      "2024-04-29": 529,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -924,7 +924,7 @@
     "timeMonth": 0,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-04-29": 521,
+      "2024-04-29": 529,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -1175,19 +1175,19 @@
     "url": "https://send.codespace.cz",
     "icon": "https://icons.duckduckgo.com/ip3/send.codespace.cz.ico",
     "slug": "send-codespace-cz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 986,
-    "timeDay": 1050,
-    "timeWeek": 1243,
-    "timeMonth": 986,
-    "timeYear": 986,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 964,
+    "timeDay": 794,
+    "timeWeek": 1155,
+    "timeMonth": 964,
+    "timeYear": 964,
     "dailyMinutesDown": {
-      "2024-04-29": 1
+      "2024-04-29": 7
     }
   },
   {
