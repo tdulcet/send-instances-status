@@ -20,8 +20,6 @@ sites:
     url: https://send.aurorabilisim.com
   - name: send.artemislena.eu
     url: https://send.artemislena.eu
-  - name: send.datahoarder.dev
-    url: https://send.datahoarder.dev
   - name: fileupload.ggc-project.de
     url: https://fileupload.ggc-project.de
   - name: drop.chapril.org
