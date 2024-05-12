@@ -44,8 +44,6 @@ sites:
     url: https://send.adminforge.de
   - name: send.turingpoint.de
     url: https://send.turingpoint.de
-  - name: send.nsh.social
-    url: https://send.nsh.social
   - name: send.aslaets.be
     url: https://send.aslaets.be
   - name: send.codespace.cz
