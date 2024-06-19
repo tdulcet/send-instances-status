@@ -1,7 +1,7 @@
 url: https://send.mni.li
-status: up
-code: 200
-responseTime: 369
-lastUpdated: 2024-06-19T23:07:14.687Z
+status: down
+code: 502
+responseTime: 357
+lastUpdated: 2024-06-19T23:27:31.818Z
 startTime: 2023-05-26T10:57:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
