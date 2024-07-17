@@ -1,7 +1,7 @@
 url: https://send.codespace.cz
-status: up
-code: 200
-responseTime: 530
-lastUpdated: 2024-07-17T08:39:59.264Z
+status: down
+code: 502
+responseTime: 5516
+lastUpdated: 2024-07-17T08:48:10.797Z
 startTime: 2024-04-14T13:00:41.612Z
 generator: Upptime <https://github.com/upptime/upptime>
