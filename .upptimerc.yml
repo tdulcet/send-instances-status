@@ -50,6 +50,10 @@ sites:
     url: https://send.codespace.cz
   - name: upload.nolog.cz
     url: https://upload.nolog.cz
+  - name: ch.skysend.ch
+    url: https://ch.skysend.ch
+  - name: de.skysend.ch
+    url: https://de.skysend.ch
 
 status-website:
   # cname: status.vis.ee
