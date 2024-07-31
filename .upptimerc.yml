@@ -54,6 +54,8 @@ sites:
     url: https://ch.skysend.ch
   - name: de.skysend.ch
     url: https://de.skysend.ch
+  - name: allthefiles.net
+    url: https://allthefiles.net
 
 status-website:
   # cname: status.vis.ee
