@@ -34,8 +34,6 @@ sites:
     url: https://send.datenpost.app
   - name: s.opnxng.com
     url: https://s.opnxng.com
-  - name: send.whateveritworks.org
-    url: https://send.whateveritworks.org
   - name: send.cyberjake.xyz
     url: https://send.cyberjake.xyz
   - name: send.kokomo.cloud
