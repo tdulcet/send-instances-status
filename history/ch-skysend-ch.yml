@@ -1,7 +1,7 @@
 url: https://ch.skysend.ch
-status: up
-code: 200
-responseTime: 695
-lastUpdated: 2024-08-13T23:07:10.116Z
+status: down
+code: 502
+responseTime: 3702
+lastUpdated: 2024-08-14T12:51:54.492Z
 startTime: 2024-07-31T12:08:13.368Z
 generator: Upptime <https://github.com/upptime/upptime>
