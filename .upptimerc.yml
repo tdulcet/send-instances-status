@@ -54,6 +54,8 @@ sites:
     url: https://de.skysend.ch
   - name: allthefiles.net
     url: https://allthefiles.net
+  - name: send.canine.tools
+    url: https://send.canine.tools
 
 status-website:
   # cname: status.vis.ee
