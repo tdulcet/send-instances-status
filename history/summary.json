@@ -36,7 +36,7 @@
     "timeMonth": 620,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2024-09-04": 606,
+      "2024-09-04": 607,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -290,7 +290,7 @@
     "timeMonth": 122,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2024-09-04": 606,
+      "2024-09-04": 607,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -762,8 +762,8 @@
     "slug": "send-datenpost-app",
     "status": "up",
     "uptime": "60.61%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.01%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.02%",
     "uptimeMonth": "13.96%",
     "uptimeYear": "58.49%",
     "time": 778,
