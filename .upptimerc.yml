@@ -8,8 +8,6 @@ sites:
       - timvisee
   - name: send.zcyph.cc
     url: https://send.zcyph.cc
-  - name: send.ephemeral.land
-    url: https://send.ephemeral.land
   - name: send.mni.li
     url: https://send.mni.li
   - name: send.monks.tools
