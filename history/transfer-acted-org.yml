@@ -1,7 +1,7 @@
 url: https://transfer.acted.org
-status: down
-code: 503
-responseTime: 719
-lastUpdated: 2024-09-15T00:00:02.989Z
+status: up
+code: 200
+responseTime: 593
+lastUpdated: 2024-09-15T01:48:53.325Z
 startTime: 2023-05-26T10:57:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
