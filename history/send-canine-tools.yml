@@ -1,7 +1,7 @@
 url: https://send.canine.tools
-status: down
-code: 502
-responseTime: 78
-lastUpdated: 2024-11-07T22:49:30.797Z
+status: up
+code: 200
+responseTime: 400
+lastUpdated: 2024-11-07T22:57:39.015Z
 startTime: 2024-08-31T10:02:55.207Z
 generator: Upptime <https://github.com/upptime/upptime>
