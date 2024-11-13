@@ -54,6 +54,8 @@ sites:
     url: https://allthefiles.net
   - name: send.canine.tools
     url: https://send.canine.tools
+  - name: secureshar.ing
+    url: https://secureshar.ing
 
 status-website:
   # cname: status.vis.ee
