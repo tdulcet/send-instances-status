@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.zcyph.cc.ico",
     "slug": "send-zcyph-cc",
     "status": "down",
-    "uptime": "78.74%",
+    "uptime": "78.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.48%",
+    "uptimeYear": "67.46%",
     "time": 1106,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1373,
     "dailyMinutesDown": {
-      "2024-12-10": 1389,
+      "2024-12-11": 77,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -217,7 +218,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.boblorange.net.ico",
     "slug": "send-boblorange-net",
     "status": "up",
-    "uptime": "80.70%",
+    "uptime": "80.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.09%",
@@ -357,7 +358,8 @@
     "timeMonth": 102,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2024-12-10": 1389,
+      "2024-12-11": 78,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -720,8 +722,7 @@
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
-      "2023-12-13": 1440,
-      "2023-12-12": 1440
+      "2023-12-13": 1440
     }
   },
   {
@@ -887,8 +888,7 @@
       "2024-04-24": 1440,
       "2024-04-23": 916,
       "2024-01-21": 16,
-      "2024-01-11": 58,
-      "2023-12-12": 15
+      "2024-01-11": 58
     }
   },
   {
@@ -919,18 +919,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.datenpost.app.ico",
     "slug": "send-datenpost-app",
     "status": "down",
-    "uptime": "66.69%",
+    "uptime": "66.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.50%",
-    "uptimeMonth": "88.15%",
-    "uptimeYear": "59.53%",
+    "uptimeWeek": "47.23%",
+    "uptimeMonth": "87.86%",
+    "uptimeYear": "59.51%",
     "time": 786,
     "timeDay": 0,
     "timeWeek": 743,
     "timeMonth": 759,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2024-12-10": 1390,
+      "2024-12-11": 78,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 890,
@@ -1081,8 +1082,7 @@
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
-      "2023-12-13": 1440,
-      "2023-12-12": 9
+      "2023-12-13": 1440
     }
   },
   {
@@ -1338,18 +1338,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ch.skysend.ch.ico",
     "slug": "ch-skysend-ch",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.88%",
+    "uptimeDay": "91.04%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.88%",
     "time": 816,
     "timeDay": 0,
     "timeWeek": 738,
     "timeMonth": 815,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2024-12-10": 1,
+      "2024-12-11": 78,
+      "2024-12-10": 51,
       "2024-10-06": 27,
       "2024-09-30": 48,
       "2024-08-14": 19
