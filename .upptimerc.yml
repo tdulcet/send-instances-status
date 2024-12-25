@@ -56,6 +56,8 @@ sites:
     url: https://send.canine.tools
   - name: secureshar.ing
     url: https://secureshar.ing
+  - name: send.aezafiles.net
+    url: https://send.aezafiles.net
 
 status-website:
   # cname: status.vis.ee
