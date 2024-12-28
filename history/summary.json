@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.zcyph.cc.ico",
     "slug": "send-zcyph-cc",
     "status": "down",
-    "uptime": "76.43%",
+    "uptime": "76.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.82%",
+    "uptimeYear": "62.80%",
     "time": 1126,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1398,
     "dailyMinutesDown": {
-      "2024-12-27": 1433,
+      "2024-12-28": 70,
+      "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
@@ -363,7 +364,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.aurorabilisim.com.ico",
     "slug": "send-aurorabilisim-com",
     "status": "down",
-    "uptime": "30.72%",
+    "uptime": "30.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -374,7 +375,8 @@
     "timeMonth": 106,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2024-12-27": 1433,
+      "2024-12-28": 70,
+      "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
@@ -737,8 +739,7 @@
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
-      "2023-12-30": 1440,
-      "2023-12-29": 1440
+      "2023-12-30": 1440
     }
   },
   {
@@ -855,7 +856,7 @@
     "status": "up",
     "uptime": "99.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.77%",
+    "uptimeWeek": "94.54%",
     "uptimeMonth": "97.12%",
     "uptimeYear": "99.38%",
     "time": 982,
@@ -940,10 +941,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.datenpost.app.ico",
     "slug": "send-datenpost-app",
     "status": "down",
-    "uptime": "64.74%",
+    "uptime": "64.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.17%",
+    "uptimeMonth": "31.99%",
     "uptimeYear": "58.98%",
     "time": 791,
     "timeDay": 0,
@@ -951,7 +952,8 @@
     "timeMonth": 758,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2024-12-27": 1433,
+      "2024-12-28": 70,
+      "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
@@ -1102,8 +1104,7 @@
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
-      "2023-12-30": 1440,
-      "2023-12-29": 1440
+      "2023-12-30": 1440
     }
   },
   {
