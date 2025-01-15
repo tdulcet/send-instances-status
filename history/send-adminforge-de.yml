@@ -1,7 +1,7 @@
 url: https://send.adminforge.de
-status: up
-code: 200
-responseTime: 744
-lastUpdated: 2025-01-14T23:07:23.525Z
+status: down
+code: 502
+responseTime: 324
+lastUpdated: 2025-01-15T11:35:06.847Z
 startTime: 2023-07-29T10:15:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
