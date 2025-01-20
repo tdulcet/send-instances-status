@@ -1,7 +1,7 @@
 url: https://allthefiles.net
-status: up
-code: 200
-responseTime: 1306
-lastUpdated: 2025-01-20T23:08:07.747Z
+status: down
+code: 502
+responseTime: 5036
+lastUpdated: 2025-01-20T23:14:09.907Z
 startTime: 2024-07-31T12:08:15.345Z
 generator: Upptime <https://github.com/upptime/upptime>
