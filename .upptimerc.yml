@@ -58,6 +58,8 @@ sites:
     url: https://secureshar.ing
   - name: send.aezafiles.net
     url: https://send.aezafiles.net
+  - name: send.sdad.pro
+    url: https://send.sdad.pro
 
 status-website:
   # cname: status.vis.ee
