@@ -1,7 +1,7 @@
 url: https://send.cyberjake.xyz
-status: up
-code: 200
-responseTime: 289
-lastUpdated: 2025-02-15T23:07:28.899Z
+status: down
+code: 502
+responseTime: 141
+lastUpdated: 2025-02-16T22:27:06.331Z
 startTime: 2023-05-29T14:48:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
