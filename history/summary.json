@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.zcyph.cc.ico",
     "slug": "send-zcyph-cc",
     "status": "down",
-    "uptime": "70.05%",
+    "uptime": "70.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.30%",
+    "uptimeYear": "48.29%",
     "time": 1193,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1492,
     "dailyMinutesDown": {
-      "2025-02-18": 1425,
+      "2025-02-19": 39,
+      "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -427,7 +428,8 @@
     "timeMonth": 184,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-02-18": 1425,
+      "2025-02-19": 40,
+      "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -790,8 +792,7 @@
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
-      "2024-02-21": 1440,
-      "2024-02-20": 1440
+      "2024-02-21": 1440
     }
   },
   {
@@ -1232,8 +1233,7 @@
       "2024-06-30": 33,
       "2024-05-09": 261,
       "2024-05-08": 1440,
-      "2024-05-07": 594,
-      "2024-02-20": 65
+      "2024-05-07": 594
     }
   },
   {
@@ -1245,7 +1245,7 @@
     "uptime": "96.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.23%",
+    "uptimeMonth": "62.10%",
     "uptimeYear": "95.97%",
     "time": 280,
     "timeDay": 0,
@@ -1253,7 +1253,8 @@
     "timeMonth": 334,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-02-18": 1426,
+      "2025-02-19": 40,
+      "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -1270,8 +1271,7 @@
       "2024-09-27": 35,
       "2024-08-20": 35,
       "2024-08-19": 570,
-      "2024-02-21": 1014,
-      "2024-02-20": 1440
+      "2024-02-21": 1014
     }
   },
   {
@@ -1493,9 +1493,9 @@
     "url": "https://send.canine.tools",
     "icon": "https://icons.duckduckgo.com/ip3/send.canine.tools.ico",
     "slug": "send-canine-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "89.46%",
+    "uptimeDay": "89.41%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.77%",
@@ -1505,6 +1505,7 @@
     "timeMonth": 214,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2025-02-19": 1,
       "2025-02-18": 152,
       "2025-02-02": 71,
       "2025-02-01": 36,
@@ -1542,11 +1543,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.aezafiles.net.ico",
     "slug": "send-aezafiles-net",
     "status": "up",
-    "uptime": "96.20%",
+    "uptime": "96.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "96.20%",
+    "uptimeYear": "96.21%",
     "time": 1793,
     "timeDay": 614,
     "timeWeek": 2582,
