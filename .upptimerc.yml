@@ -6,8 +6,6 @@ sites:
     url: https://send.vis.ee
     assignees:
       - timvisee
-  - name: send.zcyph.cc
-    url: https://send.zcyph.cc
   - name: send.mni.li
     url: https://send.mni.li
   - name: send.monks.tools
