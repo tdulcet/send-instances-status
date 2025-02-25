@@ -1,7 +1,7 @@
 url: https://send.vis.ee
-status: up
-code: 200
-responseTime: 1322
-lastUpdated: 2025-02-24T23:07:45.297Z
+status: down
+code: 502
+responseTime: 7962
+lastUpdated: 2025-02-25T17:00:17.506Z
 startTime: 2023-05-26T10:57:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
