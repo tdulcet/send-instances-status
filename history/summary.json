@@ -205,17 +205,17 @@
     "slug": "send-aurorabilisim-com",
     "status": "up",
     "uptime": "27.81%",
-    "uptimeDay": "26.40%",
-    "uptimeWeek": "12.20%",
-    "uptimeMonth": "11.72%",
-    "uptimeYear": "0.31%",
+    "uptimeDay": "32.34%",
+    "uptimeWeek": "13.04%",
+    "uptimeMonth": "11.92%",
+    "uptimeYear": "0.33%",
     "time": 210,
     "timeDay": 455,
     "timeWeek": 432,
     "timeMonth": 384,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-03-02": 1057,
+      "2025-03-02": 1049,
       "2025-03-01": 1121,
       "2025-02-28": 1030,
       "2025-02-27": 1319,
@@ -578,8 +578,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
-      "2024-03-04": 1440,
-      "2024-03-03": 1440
+      "2024-03-04": 1440
     }
   },
   {
@@ -1013,15 +1012,16 @@
     "uptime": "94.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.75%",
-    "uptimeYear": "93.42%",
+    "uptimeMonth": "22.57%",
+    "uptimeYear": "93.40%",
     "time": 281,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 368,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-03-02": 1438,
+      "2025-03-03": 76,
+      "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -1080,8 +1080,7 @@
       "2024-05-29": 26,
       "2024-05-21": 43,
       "2024-05-19": 18,
-      "2024-05-15": 16,
-      "2024-03-03": 17
+      "2024-05-15": 16
     }
   },
   {
@@ -1352,11 +1351,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.sdad.pro.ico",
     "slug": "send-sdad-pro",
     "status": "up",
-    "uptime": "95.03%",
+    "uptime": "95.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.00%",
-    "uptimeMonth": "95.03%",
-    "uptimeYear": "95.03%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "95.05%",
     "time": 839,
     "timeDay": 811,
     "timeWeek": 808,
