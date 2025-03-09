@@ -203,15 +203,15 @@
     "url": "https://send.aurorabilisim.com",
     "icon": "https://icons.duckduckgo.com/ip3/send.aurorabilisim.com.ico",
     "slug": "send-aurorabilisim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "31.42%",
-    "uptimeWeek": "40.48%",
-    "uptimeMonth": "86.30%",
+    "uptimeDay": "32.05%",
+    "uptimeWeek": "40.66%",
+    "uptimeMonth": "86.34%",
     "uptimeYear": "98.86%",
     "time": 269,
     "timeDay": 347,
-    "timeWeek": 483,
+    "timeWeek": 482,
     "timeMonth": 446,
     "timeYear": 295,
     "dailyMinutesDown": {
@@ -222,7 +222,7 @@
       "2025-03-05": 929,
       "2025-03-04": 900,
       "2025-03-03": 918,
-      "2025-03-02": 45
+      "2025-03-02": 26
     }
   },
   {
@@ -349,7 +349,7 @@
     "slug": "send-jeugdhulp-be",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "93.41%",
+    "uptimeDay": "94.74%",
     "uptimeWeek": "87.60%",
     "uptimeMonth": "97.02%",
     "uptimeYear": "98.89%",
@@ -669,7 +669,7 @@
     "timeMonth": 0,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-03-09": 318,
+      "2025-03-09": 337,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
