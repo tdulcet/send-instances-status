@@ -195,19 +195,19 @@
     "url": "https://send.aurorabilisim.com",
     "icon": "https://icons.duckduckgo.com/ip3/send.aurorabilisim.com.ico",
     "slug": "send-aurorabilisim-com",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "29.31%",
-    "uptimeWeek": "19.49%",
-    "uptimeMonth": "78.07%",
-    "uptimeYear": "98.17%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "29.84%",
+    "uptimeWeek": "19.56%",
+    "uptimeMonth": "78.18%",
+    "uptimeYear": "98.18%",
     "time": 296,
-    "timeDay": 382,
-    "timeWeek": 348,
-    "timeMonth": 415,
+    "timeDay": 373,
+    "timeWeek": 347,
+    "timeMonth": 414,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-03-17": 703,
+      "2025-03-17": 704,
       "2025-03-16": 936,
       "2025-03-15": 993,
       "2025-03-14": 1366,
@@ -215,7 +215,7 @@
       "2025-03-12": 1270,
       "2025-03-11": 1093,
       "2025-03-10": 1051,
-      "2025-03-09": 754
+      "2025-03-09": 705
     }
   },
   {
@@ -667,7 +667,7 @@
     "timeMonth": 0,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2025-03-17": 1061,
+      "2025-03-17": 1069,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -1021,7 +1021,7 @@
     "uptimeYear": "97.05%",
     "time": 834,
     "timeDay": 735,
-    "timeWeek": 811,
+    "timeWeek": 786,
     "timeMonth": 825,
     "timeYear": 834,
     "dailyMinutesDown": {
