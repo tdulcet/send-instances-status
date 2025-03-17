@@ -195,16 +195,16 @@
     "url": "https://send.aurorabilisim.com",
     "icon": "https://icons.duckduckgo.com/ip3/send.aurorabilisim.com.ico",
     "slug": "send-aurorabilisim-com",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "35.09%",
-    "uptimeWeek": "20.45%",
-    "uptimeMonth": "78.28%",
-    "uptimeYear": "98.19%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "35.34%",
+    "uptimeWeek": "20.54%",
+    "uptimeMonth": "78.43%",
+    "uptimeYear": "98.20%",
     "time": 295,
     "timeDay": 385,
-    "timeWeek": 351,
-    "timeMonth": 415,
+    "timeWeek": 350,
+    "timeMonth": 414,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-03-17": 803,
@@ -215,7 +215,7 @@
       "2025-03-12": 1270,
       "2025-03-11": 1093,
       "2025-03-10": 1051,
-      "2025-03-09": 562
+      "2025-03-09": 493
     }
   },
   {
@@ -656,7 +656,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.kokomo.cloud.ico",
     "slug": "send-kokomo-cloud",
     "status": "down",
-    "uptime": "92.71%",
+    "uptime": "92.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -667,7 +667,7 @@
     "timeMonth": 0,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2025-03-17": 1287,
+      "2025-03-17": 1297,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
