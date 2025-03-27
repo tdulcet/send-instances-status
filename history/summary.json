@@ -76,7 +76,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.04%",
+    "uptimeYear": "75.05%",
     "time": 921,
     "timeDay": 1636,
     "timeWeek": 1942,
@@ -176,8 +176,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   },
   {
@@ -187,8 +186,8 @@
     "slug": "send-aurorabilisim-com",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "21.94%",
-    "uptimeWeek": "17.52%",
+    "uptimeDay": "27.37%",
+    "uptimeWeek": "18.30%",
     "uptimeMonth": "72.89%",
     "uptimeYear": "97.74%",
     "time": 331,
@@ -220,7 +219,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "79.37%",
     "uptimeMonth": "92.82%",
-    "uptimeYear": "98.45%",
+    "uptimeYear": "98.46%",
     "time": 789,
     "timeDay": 522,
     "timeWeek": 2518,
@@ -268,8 +267,7 @@
       "2024-08-10": 106,
       "2024-06-02": 37,
       "2024-05-22": 33,
-      "2024-05-20": 19,
-      "2024-03-27": 611
+      "2024-05-20": 19
     }
   },
   {
@@ -587,7 +585,7 @@
     "status": "up",
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.41%",
+    "uptimeWeek": "99.19%",
     "uptimeMonth": "95.73%",
     "uptimeYear": "99.37%",
     "time": 769,
@@ -658,7 +656,7 @@
     "uptime": "92.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.46%",
+    "uptimeMonth": "35.64%",
     "uptimeYear": "89.14%",
     "time": 286,
     "timeDay": 118,
@@ -805,7 +803,7 @@
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "98.29%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "99.70%",
     "time": 865,
     "timeDay": 839,
@@ -993,7 +991,7 @@
     "slug": "send-aezafiles-net",
     "status": "up",
     "uptime": "97.51%",
-    "uptimeDay": "92.27%",
+    "uptimeDay": "97.69%",
     "uptimeWeek": "97.72%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "97.51%",
@@ -1021,7 +1019,7 @@
     "uptime": "97.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.41%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "97.59%",
     "time": 828,
     "timeDay": 817,
