@@ -56,6 +56,8 @@ sites:
     url: https://send.aezafiles.net
   - name: send.sdad.pro
     url: https://send.sdad.pro
+  - name: send.skylerszijjarto.com
+    url: https://send.skylerszijjarto.com
 
 status-website:
   # cname: status.vis.ee
