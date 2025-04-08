@@ -171,19 +171,19 @@
     "url": "https://send.aurorabilisim.com",
     "icon": "https://icons.duckduckgo.com/ip3/send.aurorabilisim.com.ico",
     "slug": "send-aurorabilisim-com",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "90.93%",
-    "uptimeWeek": "90.28%",
-    "uptimeMonth": "91.31%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "90.89%",
+    "uptimeWeek": "90.30%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "99.28%",
-    "time": 351,
-    "timeDay": 372,
-    "timeWeek": 457,
+    "time": 350,
+    "timeDay": 361,
+    "timeWeek": 452,
     "timeMonth": 424,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2025-04-08": 86,
+      "2025-04-08": 87,
       "2025-04-07": 290,
       "2025-04-06": 208,
       "2025-04-05": 121,
@@ -194,7 +194,7 @@
       "2025-03-31": 519,
       "2025-03-30": 716,
       "2025-03-29": 735,
-      "2025-03-28": 355
+      "2025-03-28": 325
     }
   },
   {
@@ -644,7 +644,7 @@
     "uptime": "92.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.00%",
+    "uptimeMonth": "67.05%",
     "uptimeYear": "89.14%",
     "time": 286,
     "timeDay": 132,
@@ -1009,12 +1009,12 @@
     "status": "up",
     "uptime": "90.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.09%",
+    "uptimeWeek": "70.11%",
     "uptimeMonth": "84.62%",
     "uptimeYear": "90.11%",
     "time": 881,
     "timeDay": 978,
-    "timeWeek": 996,
+    "timeWeek": 1003,
     "timeMonth": 903,
     "timeYear": 881,
     "dailyMinutesDown": {
@@ -1039,18 +1039,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.skylerszijjarto.com.ico",
     "slug": "send-skylerszijjarto-com",
     "status": "down",
-    "uptime": "62.86%",
-    "uptimeDay": "60.84%",
-    "uptimeWeek": "62.86%",
-    "uptimeMonth": "62.86%",
-    "uptimeYear": "62.86%",
+    "uptime": "61.93%",
+    "uptimeDay": "59.27%",
+    "uptimeWeek": "61.93%",
+    "uptimeMonth": "61.93%",
+    "uptimeYear": "61.93%",
     "time": 295,
     "timeDay": 376,
     "timeWeek": 295,
     "timeMonth": 295,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2025-04-08": 564
+      "2025-04-08": 587
     }
   }
 ]
