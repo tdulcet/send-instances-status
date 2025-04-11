@@ -75,7 +75,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.14%",
+    "uptimeYear": "79.16%",
     "time": 955,
     "timeDay": 815,
     "timeWeek": 1334,
@@ -160,8 +160,7 @@
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
-      "2024-04-12": 1440,
-      "2024-04-11": 1440
+      "2024-04-12": 1440
     }
   },
   {
@@ -177,7 +176,7 @@
     "uptimeYear": "99.28%",
     "time": 348,
     "timeDay": 621,
-    "timeWeek": 448,
+    "timeWeek": 446,
     "timeMonth": 434,
     "timeYear": 370,
     "dailyMinutesDown": {
@@ -563,8 +562,7 @@
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
-      "2024-04-12": 1440,
-      "2024-04-11": 1294
+      "2024-04-12": 1440
     }
   },
   {
@@ -646,7 +644,7 @@
     "uptime": "92.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.85%",
+    "uptimeMonth": "75.09%",
     "uptimeYear": "89.14%",
     "time": 287,
     "timeDay": 116,
@@ -1010,11 +1008,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.sdad.pro.ico",
     "slug": "send-sdad-pro",
     "status": "up",
-    "uptime": "90.46%",
+    "uptime": "90.47%",
     "uptimeDay": "98.91%",
-    "uptimeWeek": "96.39%",
+    "uptimeWeek": "97.40%",
     "uptimeMonth": "84.53%",
-    "uptimeYear": "90.46%",
+    "uptimeYear": "90.47%",
     "time": 890,
     "timeDay": 1107,
     "timeWeek": 981,
@@ -1044,11 +1042,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.skylerszijjarto.com.ico",
     "slug": "send-skylerszijjarto-com",
     "status": "up",
-    "uptime": "84.91%",
+    "uptime": "85.22%",
     "uptimeDay": "96.25%",
-    "uptimeWeek": "84.91%",
-    "uptimeMonth": "84.91%",
-    "uptimeYear": "84.91%",
+    "uptimeWeek": "85.22%",
+    "uptimeMonth": "85.22%",
+    "uptimeYear": "85.22%",
     "time": 254,
     "timeDay": 269,
     "timeWeek": 254,
