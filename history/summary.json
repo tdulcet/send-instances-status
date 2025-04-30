@@ -1056,18 +1056,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.dogy.cloud.ico",
     "slug": "send-dogy-cloud",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
     "time": 79,
     "timeDay": 79,
     "timeWeek": 79,
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2025-04-30": 1
+      "2025-04-30": 2
     }
   }
 ]
