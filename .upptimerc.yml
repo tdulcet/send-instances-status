@@ -58,6 +58,8 @@ sites:
     url: https://send.sdad.pro
   - name: send.skylerszijjarto.com
     url: https://send.skylerszijjarto.com
+  - name: send.dogy.cloud
+    url: https://send.dogy.cloud
 
 status-website:
   # cname: status.vis.ee
