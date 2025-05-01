@@ -1,7 +1,7 @@
 url: https://send.sdad.pro
-status: up
-code: 200
-responseTime: 899
-lastUpdated: 2025-05-01T09:31:00.271Z
+status: down
+code: 502
+responseTime: 1069
+lastUpdated: 2025-05-01T15:51:55.440Z
 startTime: 2025-02-09T10:46:35.575Z
 generator: Upptime <https://github.com/upptime/upptime>
