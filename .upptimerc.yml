@@ -62,6 +62,8 @@ sites:
     url: https://send.dogy.cloud
   - name: send.richy.sh
     url: https://send.richy.sh
+  - name: send.majoenell.com
+    url: https://send.majoenell.com
 
 status-website:
   # cname: status.vis.ee
