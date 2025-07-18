@@ -66,6 +66,8 @@ sites:
     url: https://send.majoenell.com
   - name: send.blablalinux.be
     url: https://send.blablalinux.be
+  - name: send.nog.community
+    url: https://send.nog.community
 
 status-website:
   # cname: status.vis.ee
