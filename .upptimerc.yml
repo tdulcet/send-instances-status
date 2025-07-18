@@ -64,6 +64,8 @@ sites:
     url: https://send.richy.sh
   - name: send.majoenell.com
     url: https://send.majoenell.com
+  - name: send.blablalinux.be
+    url: https://send.blablalinux.be
 
 status-website:
   # cname: status.vis.ee
