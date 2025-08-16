@@ -1,7 +1,7 @@
 url: https://send.boblorange.net
-status: up
-code: 200
-responseTime: 1500
-lastUpdated: 2025-08-16T14:31:04.781Z
+status: down
+code: 500
+responseTime: 573
+lastUpdated: 2025-08-16T17:49:53.254Z
 startTime: 2023-05-26T10:57:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
