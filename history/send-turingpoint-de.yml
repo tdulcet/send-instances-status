@@ -1,7 +1,7 @@
 url: https://send.turingpoint.de
-status: up
-code: 200
-responseTime: 764
-lastUpdated: 2025-08-25T07:42:01.347Z
+status: down
+code: 403
+responseTime: 202
+lastUpdated: 2025-08-25T07:50:06.393Z
 startTime: 2023-08-10T09:31:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
