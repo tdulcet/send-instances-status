@@ -66,6 +66,8 @@ sites:
     url: https://send.blablalinux.be
   - name: send.nog.community
     url: https://send.nog.community
+  - name: send.hostnetwork.xyz
+    url: https://send.hostnetwork.xyz
 
 status-website:
   # cname: status.vis.ee
