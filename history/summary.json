@@ -124,7 +124,7 @@
     "timeMonth": 152,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2025-10-23": 639,
+      "2025-10-23": 649,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
@@ -370,7 +370,7 @@
     "timeMonth": 746,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2025-10-23": 617,
+      "2025-10-23": 626,
       "2025-10-22": 1404,
       "2025-10-21": 645,
       "2025-10-20": 1440,
@@ -455,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 1500,
     "dailyMinutesDown": {
-      "2025-10-23": 640,
+      "2025-10-23": 649,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
@@ -656,7 +656,7 @@
     "timeMonth": 786,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2025-10-23": 640,
+      "2025-10-23": 650,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
@@ -892,25 +892,25 @@
     "url": "https://send.turingpoint.de",
     "icon": "https://icons.duckduckgo.com/ip3/send.turingpoint.de.ico",
     "slug": "send-turingpoint-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "40.92%",
-    "uptimeWeek": "52.45%",
-    "uptimeMonth": "89.06%",
-    "uptimeYear": "99.09%",
-    "time": 710,
-    "timeDay": 945,
-    "timeWeek": 828,
-    "timeMonth": 721,
+    "uptimeDay": "41.44%",
+    "uptimeWeek": "52.92%",
+    "uptimeMonth": "89.17%",
+    "uptimeYear": "99.10%",
+    "time": 709,
+    "timeDay": 925,
+    "timeWeek": 826,
+    "timeMonth": 720,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2025-10-23": 315,
+      "2025-10-23": 317,
       "2025-10-22": 936,
       "2025-10-21": 742,
       "2025-10-20": 875,
       "2025-10-19": 759,
       "2025-10-18": 770,
-      "2025-10-17": 396
+      "2025-10-17": 346
     }
   },
   {
@@ -922,7 +922,7 @@
     "uptime": "96.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.98%",
+    "uptimeMonth": "40.96%",
     "uptimeYear": "94.93%",
     "time": 919,
     "timeDay": 663,
@@ -930,7 +930,7 @@
     "timeMonth": 1331,
     "timeYear": 1013,
     "dailyMinutesDown": {
-      "2025-10-23": 640,
+      "2025-10-23": 650,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
@@ -1113,7 +1113,7 @@
     "timeMonth": 0,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2025-10-23": 640,
+      "2025-10-23": 650,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
@@ -1299,18 +1299,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/send.aezafiles.net.ico",
     "slug": "send-aezafiles-net",
     "status": "down",
-    "uptime": "61.54%",
+    "uptime": "61.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.54%",
+    "uptimeYear": "61.53%",
     "time": 1190,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1190,
     "dailyMinutesDown": {
-      "2025-10-23": 640,
+      "2025-10-23": 650,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
@@ -1453,7 +1453,7 @@
     "timeMonth": 0,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2025-10-23": 640,
+      "2025-10-23": 650,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
@@ -1673,7 +1673,7 @@
     "timeMonth": 16716,
     "timeYear": 2804,
     "dailyMinutesDown": {
-      "2025-10-23": 640,
+      "2025-10-23": 650,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
@@ -1812,7 +1812,7 @@
     "timeMonth": 226,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2025-10-23": 640,
+      "2025-10-23": 650,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
@@ -1957,7 +1957,7 @@
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2025-10-23": 640,
+      "2025-10-23": 650,
       "2025-10-22": 563
     }
   }
