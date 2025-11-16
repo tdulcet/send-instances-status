@@ -1,7 +1,7 @@
 url: https://send.artemislena.eu
-status: up
-code: 200
-responseTime: 755
-lastUpdated: 2025-11-15T23:08:44.639Z
+status: down
+code: 502
+responseTime: 525
+lastUpdated: 2025-11-16T11:19:20.029Z
 startTime: 2023-05-26T10:57:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
