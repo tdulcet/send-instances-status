@@ -24,8 +24,6 @@ sites:
     url: https://send.jeugdhulp.be
   - name: files.psu.ru
     url: https://files.psu.ru
-  - name: send.datenpost.app
-    url: https://send.datenpost.app
   - name: s.opnxng.com
     url: https://s.opnxng.com
   - name: send.cyberjake.xyz
