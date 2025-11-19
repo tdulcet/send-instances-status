@@ -48,8 +48,6 @@ sites:
     url: https://allthefiles.net
   - name: send.canine.tools
     url: https://send.canine.tools
-  - name: secureshar.ing
-    url: https://secureshar.ing
   - name: send.aezafiles.net
     url: https://send.aezafiles.net
   - name: send.sdad.pro
