@@ -1,7 +1,7 @@
 url: https://fileupload.ggc-project.de
-status: up
-code: 200
-responseTime: 2221
-lastUpdated: 2025-11-22T23:08:51.074Z
+status: down
+code: 502
+responseTime: 569
+lastUpdated: 2025-11-23T09:42:31.671Z
 startTime: 2023-05-26T10:57:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
