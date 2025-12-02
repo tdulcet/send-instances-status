@@ -1,7 +1,7 @@
 url: https://send.richy.sh
-status: up
-code: 200
-responseTime: 592
-lastUpdated: 2025-12-02T10:42:47.965Z
+status: down
+code: 502
+responseTime: 562
+lastUpdated: 2025-12-02T10:55:18.688Z
 startTime: 2025-06-30T09:40:46.040Z
 generator: Upptime <https://github.com/upptime/upptime>
