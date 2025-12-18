@@ -1,7 +1,7 @@
 url: https://send.blablalinux.be
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-12-18T07:18:36.064Z
+status: up
+code: 200
+responseTime: 1335
+lastUpdated: 2025-12-18T07:36:45.340Z
 startTime: 2025-07-18T13:53:13.275Z
 generator: Upptime <https://github.com/upptime/upptime>
