@@ -10,8 +10,6 @@ sites:
     url: https://send.mni.li
   - name: send.monks.tools
     url: https://send.monks.tools
-  - name: send.boblorange.net
-    url: https://send.boblorange.net
   - name: send.aurorabilisim.com
     url: https://send.aurorabilisim.com
   - name: send.artemislena.eu
@@ -22,10 +20,6 @@ sites:
     url: https://drop.chapril.org
   - name: send.jeugdhulp.be
     url: https://send.jeugdhulp.be
-  - name: files.psu.ru
-    url: https://files.psu.ru
-  - name: s.opnxng.com
-    url: https://s.opnxng.com
   - name: send.cyberjake.xyz
     url: https://send.cyberjake.xyz
   - name: send.kokomo.cloud
@@ -44,14 +38,8 @@ sites:
     url: https://ch.skysend.ch
   - name: de.skysend.ch
     url: https://de.skysend.ch
-  - name: allthefiles.net
-    url: https://allthefiles.net
   - name: send.canine.tools
     url: https://send.canine.tools
-  - name: send.aezafiles.net
-    url: https://send.aezafiles.net
-  - name: send.sdad.pro
-    url: https://send.sdad.pro
   - name: send.skylerszijjarto.com
     url: https://send.skylerszijjarto.com
   - name: send.richy.sh
