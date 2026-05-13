@@ -42,14 +42,8 @@ sites:
     url: https://send.canine.tools
   - name: send.skylerszijjarto.com
     url: https://send.skylerszijjarto.com
-  - name: send.richy.sh
-    url: https://send.richy.sh
-  - name: send.majoenell.com
-    url: https://send.majoenell.com
   - name: send.blablalinux.be
     url: https://send.blablalinux.be
-  - name: send.nog.community
-    url: https://send.nog.community
   - name: send.hostnetwork.xyz
     url: https://send.hostnetwork.xyz
 
