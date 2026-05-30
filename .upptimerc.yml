@@ -46,6 +46,8 @@ sites:
     url: https://send.blablalinux.be
   - name: send.hostnetwork.xyz
     url: https://send.hostnetwork.xyz
+  - name: dropnito.online
+    url: https://dropnito.online
 
 status-website:
   # cname: status.vis.ee
