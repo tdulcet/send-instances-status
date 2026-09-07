@@ -1,7 +1,7 @@
 url: https://send.hostnetwork.xyz
-status: up
-code: 200
-responseTime: 797
-lastUpdated: 2026-09-07T00:26:44.762Z
+status: down
+code: 502
+responseTime: 805
+lastUpdated: 2026-09-07T13:00:36.389Z
 startTime: 2025-10-22T14:37:08.963Z
 generator: Upptime <https://github.com/upptime/upptime>
