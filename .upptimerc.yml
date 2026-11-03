@@ -46,6 +46,8 @@ sites:
     url: https://send.hostnetwork.xyz
   - name: dropnito.online
     url: https://dropnito.online
+  - name: securasend.com
+    url: https://securasend.com
 
 status-website:
   # cname: status.vis.ee
